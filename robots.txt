@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofeyeiwa.github.io/TVS/sitemap_index.txt
+Sitemap: https://ofeyeiwa.github.io/fWG/sitemap_index.txt
+Sitemap: https://ofeyeiwa.github.io/ieF/sitemap_index.txt
+Sitemap: https://ofeyeiwa.github.io/yWm/sitemap_index.txt
